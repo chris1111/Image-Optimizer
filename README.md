@@ -1,5 +1,7 @@
 # Image-Optimizer
-Credit: [pngquant](https://pngquant.org/)
+Credit: [pngquant](https://pngquant.org/) ➥ [COPYRIGHT](https://github.com/kornelski/pngquant/blob/main/COPYRIGHT)
+
+
 
 Tool for Optimise image in macOS
 - PNG, JPG are accept

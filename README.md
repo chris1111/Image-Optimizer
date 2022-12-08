@@ -11,7 +11,7 @@ Tool for Optimise image in macOS
 
 Download ➤ [Image-Optimizer](https://github.com/chris1111/Image-Optimizer/raw/Master/Image-Optimizer.zip)
 
-![Screenshot](https://user-images.githubusercontent.com/6248794/206279924-5fb3a6cf-e80d-4f0d-aeee-121ca3584dbf.png)
+![Screenshot 2](https://user-images.githubusercontent.com/6248794/206431464-817d3d55-357a-4863-b493-d30da4da3e82.png)
 
 See Result ⇩
 

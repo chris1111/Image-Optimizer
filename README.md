@@ -6,7 +6,7 @@ Credit: [pngquant](https://pngquant.org/) ➥ [COPYRIGHT](https://github.com/kor
 
 
 
-Tool for Optimise image in macOS
+Tool for Optimise PNG image in macOS
 - Only PNG are accept
 
 Download ➤ [Image-Optimizer](https://github.com/chris1111/Image-Optimizer/raw/Master/Image-Optimizer.zip)
